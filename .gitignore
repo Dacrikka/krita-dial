@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+dist/
+*.log
+
+# Private project notes (deal terms, contacts): never publish
+SHUTTLE_HANDOFF.md
+
+# Video assets (covers, YouTube description): not part of the plugin
+youtube/
+
+# Raw footage for the Shorts
+UGC/

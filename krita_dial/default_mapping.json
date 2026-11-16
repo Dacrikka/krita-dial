@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "default": {
+    "buttons": {
+      "1": {"action": "ai.generate"},
+      "2": {"action": "ai.apply"},
+      "3": {"action": "ai.new_seed"},
+      "4": {"action": "ai.toggle_live"},
+      "5": {"action": "krita.action", "name": "edit_undo"}
+    },
+    "jog": {"action": "ai.history"},
+    "ring": {"action": "ai.strength", "step": 0.01, "repeat_ms": 100}
+  },
+  "workspaces": {
+    "live": {
+      "jog": {"action": "ai.seed_scroll"}
+    }
+  }
+}

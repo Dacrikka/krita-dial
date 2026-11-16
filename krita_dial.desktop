@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=krita_dial
+X-Python-2-Compatible=false
+Name=Krita Dial
+Comment=Control Krita and Krita AI Diffusion with a Contour xPress Multimedia Controller
