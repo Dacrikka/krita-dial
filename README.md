@@ -1,6 +1,6 @@
 # Krita Dial
 
-![Sketch to dragon with one turn of the Contour xPress Multimedia Controller](docs/media/hero.jpg)
+[![Watch the video: sketch to dragon with one turn of the Contour xPress Multimedia Controller](docs/media/hero.jpg)](https://www.youtube.com/watch?v=mxHgwdUfWK4)
 
 **I gave AI a physical knob.** Krita Dial is a free Krita plugin that turns the
 [Contour xPress Multimedia Controller](https://cd.now/the-creattivo) into a hardware controller for
@@ -14,8 +14,8 @@
 
 Every control can be remapped, and any button can trigger any Krita action.
 
-**[Download the latest release](../../releases/latest)** · [Installation](#installation) · [Default controls](#default-controls)
-<!-- TODO before publishing: add the YouTube link here, e.g. · [Watch the video](https://youtu.be/...) -->
+**[Download the latest release](../../releases/latest)** · [Watch the video](https://www.youtube.com/watch?v=mxHgwdUfWK4) ·
+[Installation](#installation) · [Default controls](#default-controls)
 
 **Get the controller:** [Contour xPress Multimedia Controller](https://cd.now/the-creattivo),
 15% off on the Contour shop with code `The-Creattivo`.
